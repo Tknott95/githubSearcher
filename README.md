@@ -10,7 +10,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 # GithubSearcher by TrevorKnott
 
-# Angular2 
-# NodeJs
-# Express
+# Angular2 | NodeJs | Express
+
+# Freelance Developer
 
